@@ -1,7 +1,6 @@
 import random
 
-from app.domain import AquecedorDeAguaParaCafe
-
+from app.domain.aquecedor_de_agua_para_cafe import AquecedorDeAguaParaCafe
 
 if __name__ == '__main__':
     aquecedor_de_agua = AquecedorDeAguaParaCafe()
